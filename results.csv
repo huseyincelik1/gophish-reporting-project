@@ -1,0 +1,22 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+nx3NacW,Email Sent,,0,0,2025-05-18T14:33:03.268533Z,false,2025-05-18T14:33:03.268533Z,user1@example.com,Alice,Johnson,Software Engineer
+smaGBK1,Email Sent,,0,0,2025-05-18T14:33:03.832264Z,false,2025-05-18T14:33:03.832264Z,user2@example.com,Bob,Smith,System Administrator
+r83nRQ4,Email Sent,,0,0,2025-05-18T14:33:04.474532Z,false,2025-05-18T14:33:04.474532Z,user3@example.com,Charlie,Lee,Marketing Specialist
+qwQBhQk,Email Sent,,0,0,2025-05-18T14:33:05.083604Z,false,2025-05-18T14:33:05.083604Z,user4@example.com,Diana,Brown,HR Manager
+LPHQM0Z,Email Sent,,0,0,2025-05-18T14:33:06.751091Z,false,2025-05-18T14:33:06.751091Z,user5@example.com,Eric,White,Data Analyst
+RsqWu0L,Submitted Data,::1,0,0,2025-05-18T14:33:07.619118Z,false,2025-05-18T14:35:46.066274Z,ferhatdemirr3456@gmail.com,Ferhat,Demir,test
+V1GgpWB,Email Sent,,0,0,2025-05-18T14:33:08.271994Z,false,2025-05-18T14:33:08.271994Z,user6@example.com,Fiona,Clark,Developer
+Qqk6xe6,Email Sent,,0,0,2025-05-18T14:33:09.065126Z,false,2025-05-18T14:33:09.065126Z,user7@example.com,George,Hill,IT Support
+EQnSY76,Email Sent,,0,0,2025-05-18T14:33:09.703446Z,false,2025-05-18T14:33:09.703446Z,user8@example.com,Hannah,Stone,Product Owner
+ebwiohe,Email Sent,,0,0,2025-05-18T14:33:11.098844Z,false,2025-05-18T14:33:11.098844Z,user9@example.com,Isaac,Adams,Security Engineer
+R0RRtZX,Email Sent,,0,0,2025-05-18T14:33:11.850672Z,false,2025-05-18T14:33:11.850672Z,user10@example.com,Julia,Lopez,QA Tester
+xttvnQW,Email Sent,,0,0,2025-05-18T14:33:12.748022Z,false,2025-05-18T14:33:12.748022Z,user11@example.com,Kevin,Wells,DevOps Engineer
+E7kSvLx,Email Sent,,0,0,2025-05-18T14:33:13.569829Z,false,2025-05-18T14:33:13.569829Z,user12@example.com,Laura,Scott,UX Designer
+jgJyla3,Email Sent,,0,0,2025-05-18T14:33:14.161216Z,false,2025-05-18T14:33:14.161216Z,user13@example.com,Mike,Young,Finance Manager
+CFvJ7iv,Email Sent,,0,0,2025-05-18T14:33:15.733502Z,false,2025-05-18T14:33:15.733502Z,user14@example.com,Nina,Carter,Business Analyst
+mdEKmnz,Email Sent,,0,0,2025-05-18T14:33:16.346827Z,false,2025-05-18T14:33:16.346827Z,user15@example.com,Oscar,Taylor,Intern
+ZOBwE0t,Email Sent,,0,0,2025-05-18T14:33:17.280982Z,false,2025-05-18T14:33:17.280982Z,user16@example.com,Pamela,Evans,Sales Manager
+FD6PaQN,Email Sent,,0,0,2025-05-18T14:33:18.637476Z,false,2025-05-18T14:33:18.637476Z,user17@example.com,Quinn,Baker,Legal Advisor
+pYSFtc7,Email Sent,,0,0,2025-05-18T14:33:19.211135Z,false,2025-05-18T14:33:19.211135Z,user18@example.com,Rita,Hughes,Recruiter
+8qXIKMH,Email Sent,,0,0,2025-05-18T14:33:20.73073Z,false,2025-05-18T14:33:20.73073Z,user19@example.com,Steve,Bell,Scrum Master
+e7SXX6H,Email Sent,,0,0,2025-05-18T14:33:21.781291Z,false,2025-05-18T14:33:21.781291Z,user20@example.com,Tina,Morgan,Executive Assistant
